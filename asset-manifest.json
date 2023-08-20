@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern-graphql-projectmgmt-frontend/static/css/main.c93edd88.css",
+    "main.js": "/mern-graphql-projectmgmt-frontend/static/js/main.c1536a70.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/mern-graphql-projectmgmt-frontend/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/mern-graphql-projectmgmt-frontend/index.html",
+    "main.c93edd88.css.map": "/mern-graphql-projectmgmt-frontend/static/css/main.c93edd88.css.map",
+    "main.c1536a70.js.map": "/mern-graphql-projectmgmt-frontend/static/js/main.c1536a70.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/mern-graphql-projectmgmt-frontend/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c93edd88.css",
+    "static/js/main.c1536a70.js"
+  ]
+}
